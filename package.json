@@ -1,0 +1,24 @@
+{
+  "name": "humanize-numbers-exercise",
+  "version": "1.0.0",
+  "description": "A simple app that will convert a number to a written out version in english.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chafnan/humanize-numbers-exercise.git"
+  },
+  "keywords": [
+    "numbers",
+    "humanize",
+    "exercise"
+  ],
+  "author": "Jonathan Chapman <chafnan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chafnan/humanize-numbers-exercise/issues"
+  },
+  "homepage": "https://github.com/chafnan/humanize-numbers-exercise#readme"
+}
