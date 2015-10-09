@@ -4,7 +4,7 @@
   "description": "A simple app that will convert a number to a written out version in english.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "./node_modules/.bin/gulp test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,15 @@
   "bugs": {
     "url": "https://github.com/chafnan/humanize-numbers-exercise/issues"
   },
-  "homepage": "https://github.com/chafnan/humanize-numbers-exercise#readme"
+  "homepage": "https://github.com/chafnan/humanize-numbers-exercise#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.3",
+    "gulp-util": "^3.0.6",
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  },
+  "dependencies": {
+    "gulp-load-plugins": "^0.10.0"
+  }
 }
