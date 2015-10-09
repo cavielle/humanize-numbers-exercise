@@ -1,6 +1,6 @@
 # Humanize Numbers Exercise
 
-This project is just a simple exerise to write out a number in the english language.
+This project is just a simple exercise to write out a number in the english language.
  
 ## Install
 
